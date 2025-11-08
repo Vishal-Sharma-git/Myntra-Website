@@ -16,3 +16,6 @@ A fully functional clone of Myntra built using the MERN stack. It includes real-
 - **Database:** MongoDB
 - **Tools:** Git, GitHub CLI, VS Code
 
+  currently i am woriking on this project and learning new skill..
+  this i my first project hope you like it 
+
